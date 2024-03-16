@@ -1,3 +1,1 @@
-# CodeBlues Indonesia - Community Docs File
-
-This repository only contains community information files for the [CodeBlue Indonesia](https://github.com/docs-codeblues) organization.
+![.github](https://socialify.git.ci/docs-codeblues/.github/image?description=1&descriptionEditable=The%20place%20to%20gain%20knowledge%20of%20programming%20languages%20%E2%80%8B%0Aexplained%20in%20Indonesian&font=Source%20Code%20Pro&issues=1&language=1&logo=https%3A%2F%2Fi.ibb.co%2Fz8WSvKm%2FTrans-Logo.png&name=1&owner=1&pattern=Signal&pulls=1&stargazers=1&theme=Auto)
